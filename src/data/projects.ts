@@ -8,7 +8,7 @@ export interface ProjectConfig {
 
 export const projectConfigs: ProjectConfig[] = [
   {
-    repoName: "cosmos-space-api",
+    repoName: "Cosmos-space-api",
     image: "/Basel-Hassan-Portfolio/images/projects/cosmos-space.png",
     liveDemo: "https://basel-hassan.github.io/cosmos-space-api/",
     technologies: [
@@ -56,6 +56,52 @@ export const projectConfigs: ProjectConfig[] = [
       "CSS",
       "Bootstrap",
       "JavaScript",
+    ],
+    featured: true,
+  },
+  
+  {
+    repoName: "EliteHomes",
+    image: "/Basel-Hassan-Portfolio/images/projects/elite-homes.png",
+    liveDemo: "https://basel-hassan.github.io/EliteHomes/",
+    technologies: [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+    ],
+    featured: true,
+  },
+  
+  {
+    repoName: "Modabr",
+    image: "/Basel-Hassan-Portfolio/images/projects/modabr.png",
+    liveDemo: "https://basel-hassan.github.io/Modabr/",
+    technologies: [
+      "HTML",
+      "CSS",
+    ],
+    featured: true,
+  },
+  
+  {
+    repoName: "The-UX-Review",
+    image: "/Basel-Hassan-Portfolio/images/projects/ux-review.png",
+    liveDemo: "https://basel-hassan.github.io/The-UX-Review/",
+    technologies: [
+      "HTML",
+      "CSS",
+    ],
+    featured: true,
+  },
+  
+  {
+    repoName: "Games-Website",
+    image: "/Basel-Hassan-Portfolio/images/projects/games.png",
+    liveDemo: "https://basel-hassan.github.io/Games-Website/",
+    technologies: [
+      "HTML",
+      "CSS",
+      "Bootstrap",
     ],
     featured: true,
   },
