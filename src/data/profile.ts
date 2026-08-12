@@ -9,6 +9,6 @@ export const profile = {
   availability: "Currently Learning",
   summary:
     "Front-End Developer focused on building responsive, accessible and interactive web experiences. I enjoy turning ideas and designs into clean, maintainable interfaces and continuously improving my skills with modern web technologies.",
-  cvPath: "/Basel-Hassan-CV.pdf",
-  imagePath: "/Basel.png",
+  imagePath: "/Basel-Hassan-Portfolio/Basel.png",
+  cvPath: "/Basel-Hassan-Portfolio/Basel-Hassan-CV.pdf",
 };

@@ -9,7 +9,7 @@ export interface ProjectConfig {
 export const projectConfigs: ProjectConfig[] = [
   {
     repoName: "cosmos-space-api",
-    image: "/images/projects/cosmos-space.png",
+    image: "/Basel-Hassan-Portfolio/images/projects/cosmos-space.png",
     liveDemo: "https://basel-hassan.github.io/cosmos-space-api/",
     technologies: [
       "HTML",
@@ -23,7 +23,7 @@ export const projectConfigs: ProjectConfig[] = [
 
   {
     repoName: "Ftont-End-Portofolio",
-    image: "/images/projects/portofolio.png",
+    image: "/Basel-Hassan-Portfolio/images/projects/portofolio.png",
     liveDemo: "https://basel-hassan.github.io/Ftont-End-Portofolio/",
     technologies: [
       "HTML",
@@ -36,7 +36,7 @@ export const projectConfigs: ProjectConfig[] = [
 
   {
     repoName: "ContactHub",
-    image: "/images/projects/contact-us.png",
+    image: "/Basel-Hassan-Portfolio/images/projects/contact-us.png",
     liveDemo: "https://basel-hassan.github.io/ContactHub/",
     technologies: [
       "HTML",
@@ -49,7 +49,7 @@ export const projectConfigs: ProjectConfig[] = [
 
   {
     repoName: "What-s-For-Dinner",
-    image: "/images/projects/What-for-dinner.png",
+    image: "/Basel-Hassan-Portfolio/images/projects/What-for-dinner.png",
     liveDemo: "https://basel-hassan.github.io/What-s-For-Dinner/",
     technologies: [
       "HTML",
