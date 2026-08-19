@@ -105,4 +105,18 @@ export const projectConfigs: ProjectConfig[] = [
     ],
     featured: true,
   },
+  
+  {
+    repoName: "NutriPlan",
+    image: "/Basel-Hassan-Portfolio/images/projects/NutriPlan.png",
+    liveDemo: "https://basel-hassan.github.io/NutriPlan/#home",
+    technologies: [
+      "HTML",
+      "Tailwind CSS",
+      "JavaScript",
+      "ES6",
+      "API",
+    ],
+    featured: true,
+  },
 ];
